@@ -1,0 +1,12 @@
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\bin\Debug\Kit metodos de ordenacion.exe.config
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\bin\Debug\Kit metodos de ordenacion.exe
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\bin\Debug\Kit metodos de ordenacion.pdb
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\bin\Debug\Kit metodos de ordenacion.xml
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit metodos de ordenacion.vbprojAssemblyReference.cache
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit_metodos_de_ordenacion.Form1.resources
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit_metodos_de_ordenacion.Resources.resources
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit metodos de ordenacion.vbproj.GenerateResource.cache
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit metodos de ordenacion.vbproj.CoreCompileInputs.cache
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit metodos de ordenacion.exe
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit metodos de ordenacion.xml
+C:\Users\RICARDO\source\repos\Kit metodos de ordenacion\Kit metodos de ordenacion\obj\Debug\Kit metodos de ordenacion.pdb
